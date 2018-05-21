@@ -1,0 +1,10 @@
+[credential]
+	helper = store
+[user]
+	email = 849104648@qq.com
+	name = jarhm
+[color]
+	status = auto
+	branch = auto
+	interactive = auto
+	diff = auto
