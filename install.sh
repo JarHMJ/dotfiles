@@ -5,4 +5,5 @@
 # @author jarhmj 
 ###########################
 
-ln -s -i ~/.dotfiles/.gitconfig ~/.gitconfig
+ln -s -f ~/.dotfiles/.gitconfig ~/.gitconfig
+ln -s -f ~/.dotfiles/zsh/.zshrc ~/.zshrc
