@@ -16,5 +16,3 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 ln -sf ~/.dotfiles/.gitconfig ~/.gitconfig
 ln -sf ~/.dotfiles/zsh/.zshrc ~/.zshrc
 
-
-source $HOME/.zshrc
