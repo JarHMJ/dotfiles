@@ -17,4 +17,4 @@ ln -sf ~/.dotfiles/.gitconfig ~/.gitconfig
 ln -sf ~/.dotfiles/zsh/.zshrc ~/.zshrc
 
 
-source ~/.zshrc
+source $HOME/.zshrc
