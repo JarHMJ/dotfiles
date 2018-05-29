@@ -8,3 +8,5 @@
 	branch = auto
 	interactive = auto
 	diff = auto
+[core]
+	editor = vim 

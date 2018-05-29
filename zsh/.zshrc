@@ -106,3 +106,5 @@ export PATH=/usr/local/bin:$PATH
 export PATH="$HOME/.linuxbrew/bin:$PATH"
 export LD_LIBRARY_PATH="$HOME/.linuxbrew/lib:$LD_LIBRARY_PATH"
 #export PATH="/hmj/anaconda3/bin:$PATH"
+export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=blue'
+export PATH="/root/miniconda3/bin:$PATH"
