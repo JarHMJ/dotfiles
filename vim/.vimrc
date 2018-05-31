@@ -8,6 +8,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-fugitive'
 Plug 'scrooloose/syntastic'
 Plug 'airblade/vim-gitgutter'
+Plug 'tomasr/molokai'
 
 call plug#end()
 
@@ -16,6 +17,9 @@ call plug#end()
 syntax on
 set number
 set relativenumber
+
+let g:molokai_original = 1
+
 " ...
 
 
