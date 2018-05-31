@@ -7,6 +7,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-fugitive'
 Plug 'scrooloose/syntastic'
+Plug 'airblade/vim-gitgutter'
 
 call plug#end()
 
