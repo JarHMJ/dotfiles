@@ -17,3 +17,13 @@ rm -rf ~/.vim
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
+
+# 创建配置软链
+rm ~/.gitconfig
+ln -sf ~/.dotfiles/.gitconfig ~/.gitconfig
+
+rm ~/.zshrc
+ln -sf ~/.dotfiles/zsh/.zshrc ~/.zshrc
+
+rm ~/.vimrc
+ln -sf ~/.dotfiles/vim/.vimrc ~/.vimrc
