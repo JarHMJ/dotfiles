@@ -16,6 +16,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'scrooloose/syntastic'
 Plug 'airblade/vim-gitgutter'
 Plug 'tomasr/molokai'
+" Plug 'valloric/youcompleteme'
 
 call plug#end()
 

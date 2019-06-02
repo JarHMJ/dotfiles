@@ -9,3 +9,8 @@ if status --is-interactive
     # 定义缩写abbr
     abbr --add --global gco git checkout
 end
+
+
+# 启动conda 
+source  ~/anaconda3/etc/fish/conf.d/conda.fish
+conda activate base
