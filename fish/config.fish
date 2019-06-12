@@ -14,3 +14,7 @@ end
 # 启动conda 
 source  ~/anaconda3/etc/fish/conf.d/conda.fish
 conda activate base
+
+# 设置spacefish
+set SPACEFISH_TIME_SHOW true
+set SPACEFISH_DATE_SHOW true
